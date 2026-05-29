@@ -5,7 +5,7 @@
 
 This suite of software was designed to detect morphological motifs, such as blebs, filopodia, and lamellipodia, from 3D images of surfaces, particularly images of cell surfaces.
 
-It is associated with the paper, [**Robust and automated detection of subcellular morphological motifs in 3D microscopy images**](https://doi.org/10.1038/s41592-019-0539-z), *Nature Methods*, 2019, 16, 1037–1044, written by Meghan K. Driscoll, Erik S. Welf, Andrew R. Jamieson, Kevin M. Dean, Tadamoto Isogai, Reto Fiolka, and [Gaudenz Danuser](https://www.danuserlab-utsw.org/). 
+It is associated with the paper, [**Robust and automated detection of subcellular morphological motifs in 3D microscopy images**](https://doi.org/10.1038/s41592-019-0539-z), *Nature Methods*, 2019, 16, 1037–1044, written by Meghan K. Driscoll, Erik S. Welf, Andrew R. Jamieson, Kevin M. Dean, Tadamoto Isogai, Reto Fiolka, and Gaudenz Danuser. 
 
 For more information, please read the [User Guide](software/doc/Morphology3DPackage.pdf).
 
@@ -26,6 +26,4 @@ Please refer to the software version available on the [uShape3Dpaper branch](htt
 
 ----------------------
 ### Danuser Lab Links
-[Danuser Lab Website](https://www.danuserlab-utsw.org/)
-
 [Software Links](https://github.com/DanuserLab/)
